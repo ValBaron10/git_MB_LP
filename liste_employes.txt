@@ -6,3 +6,4 @@ Depp, Johnny, 11/10/2022, Concierge
 Parker, Peter, 01/10/2022, Stagiaire
 Paupiette, Bernard, 14/08/1981, Gourmand
 Maité, Ordonez, 02/06/1938, Restauratrice et mange des ortolans
+Galère, Michel, 04/08/2023, Rameur

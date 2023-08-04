@@ -5,3 +5,4 @@ Doe, John, 11/10/2022, Ingénieur
 Depp, Johnny, 11/10/2022, Concierge
 Parker, Peter, 01/10/2022, Stagiaire
 Paupiette, Bernard, 14/08/1981, Gourmand
+Galère, Michel, 04/08/2023, Rameur
